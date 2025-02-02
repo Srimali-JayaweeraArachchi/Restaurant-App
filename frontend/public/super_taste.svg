@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <!-- Tongue -->
+    <path d="M20 50 Q50 80 80 50 Q50 70 20 50" fill="#f56565"/>
+    
+    <!-- Taste buds -->
+    <circle cx="35" cy="55" r="3" fill="#742a2a"/>
+    <circle cx="45" cy="58" r="3" fill="#742a2a"/>
+    <circle cx="55" cy="58" r="3" fill="#742a2a"/>
+    <circle cx="65" cy="55" r="3" fill="#742a2a"/>
+    
+    <!-- Stars for super effect -->
+    <path d="M30 20 L32 25 L28 25 Z" fill="#ecc94b"/>
+    <path d="M50 15 L52 20 L48 20 Z" fill="#ecc94b"/>
+    <path d="M70 20 L72 25 L68 25 Z" fill="#ecc94b"/>
+    
+    <!-- Sparkles -->
+    <circle cx="35" cy="25" r="2" fill="#ecc94b"/>
+    <circle cx="65" cy="25" r="2" fill="#ecc94b"/>
+    <circle cx="50" cy="23" r="2" fill="#ecc94b"/>
+</svg>

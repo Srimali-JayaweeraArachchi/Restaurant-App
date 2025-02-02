@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <!-- Delivery box -->
+    <rect x="45" y="40" width="40" height="30" fill="#ed8936"/>
+    <path d="M45 40 L65 25 L85 40" fill="#dd6b20"/>
+    <path d="M85 40 L105 25 L85 40" fill="#dd6b20"/>
+    
+    <!-- Speed lines -->
+    <path d="M10 45 L30 45" stroke="#4a5568" stroke-width="3" stroke-linecap="round"/>
+    <path d="M5 55 L25 55" stroke="#4a5568" stroke-width="3" stroke-linecap="round"/>
+    <path d="M15 65 L35 65" stroke="#4a5568" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Wheels -->
+    <circle cx="55" cy="75" r="8" fill="#2d3748"/>
+    <circle cx="75" cy="75" r="8" fill="#2d3748"/>
+    <circle cx="55" cy="75" r="3" fill="#e2e8f0"/>
+    <circle cx="75" cy="75" r="3" fill="#e2e8f0"/>
+</svg>
